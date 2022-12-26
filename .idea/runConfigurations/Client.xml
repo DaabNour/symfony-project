@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Client" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner scope="Class" />
+    <method v="2" />
+  </configuration>
+</component>
